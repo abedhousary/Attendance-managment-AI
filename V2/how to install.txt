@@ -1,0 +1,15 @@
+1 . visual studio 2019 (install cmake for windows and check desktop development for c++)
+link : https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads
+2 . wampserver 
+link : https://www.wampserver.com/en/ 
+3 . python 3.9.1 (check add to path in installer )
+link :https://www.python.org/downloads/release/python-391/
+
+after installing all of the above : 
+run cmd in the folder and run this command 
+pip install -r requirement.txt
+
+after all steps done you can run main.py file
+
+to create shortcut on desktop 
+right click send to desktop

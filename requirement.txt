@@ -1,0 +1,14 @@
+# libraries with # is already installed in python
+
+opencv-python
+#os
+#time 
+face_recognition
+#mysql.connector
+#pickle
+#tkinter 
+imutils
+#time 
+#shutil
+cmake  
+dlib
